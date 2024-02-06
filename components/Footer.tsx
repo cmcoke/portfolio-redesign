@@ -17,7 +17,7 @@ const Footer = () => {
             </Link>
           </li>
           <li>
-            <Link href="https://www.linkedin.com/in/charles-coke/" rel="noopener noreferrer" target="_blank" className={`${helveticaNowDisplayRegular.className} text-[clamp(0.938rem,0.821rem_+_0.58vw,1.75rem)] uppercase`}>
+            <Link href="https://www.linkedin.com/in/charles-michael-coke/" rel="noopener noreferrer" target="_blank" className={`${helveticaNowDisplayRegular.className} text-[clamp(0.938rem,0.821rem_+_0.58vw,1.75rem)] uppercase`}>
               Linkedin
             </Link>
           </li>
