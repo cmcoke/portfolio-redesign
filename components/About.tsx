@@ -13,7 +13,7 @@ const About = () => {
       <p className={`${helveticaNowDisplayRegular.className} leading-[1.6] text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]  xl:w-[55%] mb-6`}>Think of me as your partner in crafting a digital space that reflects your values, engages your audience, and achieves your goals. Let&apos;s collaborate to bring your online vision to life!</p>
 
       <div>
-        <h3 className={`${helveticaNowDisplayBold.className} text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)] uppercase mt-[2rem] mb-[1rem]`}>Competencies:</h3>
+        <h2 className={`${helveticaNowDisplayBold.className} text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)] uppercase mt-[2rem] mb-[1rem]`}>Competencies:</h2>
         <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}>HTML5 / CSS3 / SCSS / SASS / JavaScript / TypeScript </span>
         <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}>React / Next / jQuery / GSAP / Framer Motion </span>
         <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}> WordPress / Sanity / Git (GitHub) / Figma / Photoshop</span>

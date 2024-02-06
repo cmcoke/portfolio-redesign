@@ -42,7 +42,7 @@ const Projects = () => {
       </ul>
 
       <div className="mt-[6rem]">
-        <h3 className={`${helveticaNowDisplayBold.className} text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)] uppercase mt-[2rem] mb-[1rem]`}>Experience:</h3>
+        <h2 className={`${helveticaNowDisplayBold.className} text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)] uppercase mt-[2rem] mb-[1rem]`}>Experience:</h2>
         <Experience />
       </div>
     </section>
