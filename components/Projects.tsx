@@ -29,8 +29,8 @@ const Projects = () => {
         </li>
 
         <li className="mb-4 lg:mb-0">
-          <Link href="https://stevenmackey.netlify.app/" rel="noopener noreferrer" target="_blank" className="uppercase text-[clamp(1.7rem,1.157rem_+_2.714vw,5.5rem)] leading-7 lg:leading-normal">
-            Psy. Steven Mackey
+          <Link href="https://cmc-uflix.vercel.app/" rel="noopener noreferrer" target="_blank" className="uppercase text-[clamp(1.7rem,1.157rem_+_2.714vw,5.5rem)] leading-7 lg:leading-normal">
+            The Uflix App
           </Link>
         </li>
 
