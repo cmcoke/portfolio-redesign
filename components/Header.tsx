@@ -14,8 +14,8 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link href="#work" className={`${HelveticaNowDisplayBold.className} uppercase`}>
-              Work
+            <Link href="#projects" className={`${HelveticaNowDisplayBold.className} uppercase`}>
+              Projects
             </Link>
           </li>
           <li>
