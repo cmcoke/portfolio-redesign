@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+/* 
+  Applies smooth scrolling behavior to the entire document, making scrolling between anchor links or page sections 
+  transition smoothly rather than jumping abruptly. 
+  Additionally, sets a 3rem padding on the top of the viewport when scrolling to an anchor link, ensuring that 
+  content doesn't get hidden behind fixed headers or other elements.
+*/
 html {
   scroll-behavior: smooth;
   scroll-padding: 3rem;
