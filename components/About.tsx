@@ -16,7 +16,7 @@ const About = () => {
         <h2 className={`${helveticaNowDisplayBold.className} text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)] uppercase mt-[2rem] mb-[1rem]`}>Tech Stack Used:</h2>
         <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}>HTML5 / CSS3 / SCSS / SASS / JavaScript / TypeScript </span>
         <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}>React / Next / jQuery / GSAP / Framer Motion </span>
-        <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}> WordPress / Sanity / Git (GitHub) / Figma / Photoshop</span>
+        <span className={`${helveticaNowDisplayRegular.className} block text-[clamp(1rem,0.929rem_+_0.357vw,1.5rem)]`}> WordPress / Git (GitHub) / Figma / Photoshop</span>
       </div>
     </section>
   );
