@@ -18,11 +18,11 @@ const Header = () => {
               Projects
             </Link>
           </li>
-          <li>
+          {/* <li>
             <Link href="mailto:c-coke@live.com" className={`${HelveticaNowDisplayBold.className} uppercase`}>
               Contact
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>
